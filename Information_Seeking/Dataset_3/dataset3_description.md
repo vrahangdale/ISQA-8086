@@ -1,4 +1,4 @@
-## Enrolments in Student Programs
+## Enrollments in Student Programs
 
 > This dataset includes the data about the enrollment of students in various programs in British Columbia. It is available for public and is provided by Ministry of Education, British Columbia.
 
