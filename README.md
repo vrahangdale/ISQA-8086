@@ -2,14 +2,14 @@
 >This Repository is for all Assigments of ISQA-8086-Data to Decision, Fall 2017.
 
 ## Assignments
-1. [Information Seeking]()
-2. [Data Entry Analysis]()
-3. [Work Plan & RQs]()
-4. [Data Cleaning Documentation]()
-5. [R Script]()
-6. [R Plot/s]()
-7. [Git Repository Package]()
-8. [Presentation]()
+1. [Information Seeking](https://github.com/vrahangdale/ISQA-8086/tree/master/Assignment%201-%20Information%20Seeking)
+2. Data Entry Analysis
+3. Work Plan & RQs
+4. Data Cleaning Documentation
+5. R Script
+6. R Plot/s
+7. Git Repository Package
+8. Presentation
 
 ## Some Git Commands-
 * $ git log  
