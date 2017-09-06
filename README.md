@@ -2,7 +2,7 @@
 >This Repository is for all Assigments of ISQA-8086-Data to Decision, Fall 2017.
 
 ## Assignments
-1. [Information Seeking](https://github.com/vrahangdale/ISQA-8086/tree/master/Assignment%201-%20Information%20Seeking)
+1. [Information Seeking](https://github.com/vrahangdale/ISQA-8086/tree/master/Information_Seeking)
 2. Data Entry Analysis
 3. Work Plan & RQs
 4. Data Cleaning Documentation
