@@ -2,14 +2,22 @@
 >This Repository is for all Assigments of ISQA-8086-Data to Decision, Fall 2017.
 
 ## Assignments
-1. [Information Seeking](https://github.com/vrahangdale/ISQA-8086/tree/master/Information_Seeking)
-2. Data Entry Analysis
-3. Work Plan & RQs
-4. Data Cleaning Documentation
-5. R Script
-6. R Plot/s
-7. Git Repository Package
-8. Presentation
+#### 1. Readme.md
+#### 2. [Information Seeking](https://github.com/vrahangdale/ISQA-8086/tree/master/Information_Seeking)
+* airbnb_boston_dataset.csv
+* dataset_description.md
+* fires-reported-dataset.csv
+* dataset2_description.md
+* student_enrollment_dataset.csv
+* dataset3_description.md
+
+#### 3. Data Entry Analysis
+#### 4. Work Plan & RQs
+#### 5. Data Cleaning Documentation
+#### 6. R Script
+#### 7. R Plot/s
+#### 8. Git Repository Package
+#### 9. Presentation
 
 ## Some Git Commands-
 * $ git log  
