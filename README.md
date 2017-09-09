@@ -30,7 +30,7 @@ Shows content differences between two branches
 Outputs metadata and content changes of the specified commit
 
 ### License
->This project is licensed under  [**_MIT License_**]()
+>This project is licensed under  [**_MIT License_**](https://choosealicense.com/licenses/mit/)
 
 #### Author-
 Vaibhav Rahangdale
