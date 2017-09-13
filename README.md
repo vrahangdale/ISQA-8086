@@ -11,7 +11,7 @@
 * student_enrollment_dataset.csv
 * dataset3_description.md
 
-#### 3. Data Entry Analysis
+#### 3. [Data Entry Analysis](https://github.com/vrahangdale/ISQA-8086/blob/master/Data_Entry_Analysis/Data_entry_analysis.md)
 #### 4. Work Plan & RQs
 #### 5. Data Cleaning Documentation
 #### 6. R Script
