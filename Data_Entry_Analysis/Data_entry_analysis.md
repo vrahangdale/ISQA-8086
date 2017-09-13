@@ -1,8 +1,8 @@
 # Assignment Data Entry Analysis
 ### Files associated with this Assignment-
-* [zoop - temp-main.xlsx]()
-* [zoop - temp]()
-* [pond2010]()
+* [zoop - temp-main.xlsx](https://github.com/vrahangdale/ISQA-8086/blob/master/Data_Entry_Analysis/zoop%20-%20temp-main.xlsx)
+* [zoop - temp](https://github.com/vrahangdale/ISQA-8086/blob/master/Data_Entry_Analysis/zoop%20-%20temp.xlsx)
+* [pond2010](https://github.com/vrahangdale/ISQA-8086/blob/master/Data_Entry_Analysis/pond2010.xlsx)
 
 #### Task #1: Based on our class readings, prior experience, and your own good sense, list some of the problems in the way that the data are currently organized (there are at least 8 problems with these spreadsheets; try to identify as many as possible, but at least 4).
 
